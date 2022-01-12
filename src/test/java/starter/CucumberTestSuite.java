@@ -13,6 +13,7 @@ import starter.dataService.TestDataService;
         tags="@SearchProduct"
 
 )
+
 public class CucumberTestSuite {
     @BeforeClass
     public static void initConfiguration() {
